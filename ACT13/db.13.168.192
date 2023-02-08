@@ -1,0 +1,5 @@
+$TTL 384800 ; 1 week
+@ IN SOA angelrr-linux.angelrr.edu. root.angelrr.edu. (
+                              1 360000 3600 3600000 360000)
+                              IN NS angelrr-linux.angelrr.edu.
+10                            IN PTR angelrr-linux.angelrr.edu.
